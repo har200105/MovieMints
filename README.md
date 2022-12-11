@@ -7,9 +7,11 @@ This web app also has a layer of admin panel where users can add actors,trailers
 
 * React.js
 * Redux Toolkit
+* Tailwind CSS
 * Node.js
 * Express.js
 * MongoDB
+
 
 
 # Screenshots of the project
